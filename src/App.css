@@ -62,3 +62,8 @@ body {
   box-shadow: 1px 1px 10px 2px #3a5f5f;
   border-top: none;
 }
+
+img {
+  width: 80%;
+  margin: 20px 0px;
+}

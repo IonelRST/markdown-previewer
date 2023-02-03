@@ -62,7 +62,7 @@ You can also make text **bold**... whoa!
 Or _italic_.
 Or... wait for it... **_both!_**
 And feel free to go crazy ~~crossing stuff out~~.
-There's also [links](https://libormarko.github.io/), and
+There's also [links](https://ionelfuioaga.com), and
 > Block Quotes!
 And if you want to get really crazy, even tables:
 Wild Header | Crazy Header | Another Header?
@@ -78,7 +78,7 @@ And here. | Okay. | I think we get it.
 1. But the list goes on...
 - Even if you use dashes or asterisks.
 * And last but not least, let's not forget embedded images:
-![React Logo w/ Text](https://goo.gl/Umyytc)
+![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
 `
 
 export default App
